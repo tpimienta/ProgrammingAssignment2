@@ -1,4 +1,6 @@
 
+## Author: Tom Pimienta
+
 ## Implement matrix capable of caching its own inversion.
 ##
 ## Given a matrix returns a list object whose elements are functions
